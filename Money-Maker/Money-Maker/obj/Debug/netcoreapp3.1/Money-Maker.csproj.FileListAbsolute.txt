@@ -1,0 +1,13 @@
+D:\nauka\KURSY\codeAcademy\C#\Money-Maker\Money-Maker\Money-Maker\bin\Debug\netcoreapp3.1\Money-Maker.exe
+D:\nauka\KURSY\codeAcademy\C#\Money-Maker\Money-Maker\Money-Maker\bin\Debug\netcoreapp3.1\Money-Maker.deps.json
+D:\nauka\KURSY\codeAcademy\C#\Money-Maker\Money-Maker\Money-Maker\bin\Debug\netcoreapp3.1\Money-Maker.runtimeconfig.json
+D:\nauka\KURSY\codeAcademy\C#\Money-Maker\Money-Maker\Money-Maker\bin\Debug\netcoreapp3.1\Money-Maker.runtimeconfig.dev.json
+D:\nauka\KURSY\codeAcademy\C#\Money-Maker\Money-Maker\Money-Maker\bin\Debug\netcoreapp3.1\Money-Maker.dll
+D:\nauka\KURSY\codeAcademy\C#\Money-Maker\Money-Maker\Money-Maker\bin\Debug\netcoreapp3.1\Money-Maker.pdb
+D:\nauka\KURSY\codeAcademy\C#\Money-Maker\Money-Maker\Money-Maker\obj\Debug\netcoreapp3.1\Money-Maker.csprojAssemblyReference.cache
+D:\nauka\KURSY\codeAcademy\C#\Money-Maker\Money-Maker\Money-Maker\obj\Debug\netcoreapp3.1\Money-Maker.AssemblyInfoInputs.cache
+D:\nauka\KURSY\codeAcademy\C#\Money-Maker\Money-Maker\Money-Maker\obj\Debug\netcoreapp3.1\Money-Maker.AssemblyInfo.cs
+D:\nauka\KURSY\codeAcademy\C#\Money-Maker\Money-Maker\Money-Maker\obj\Debug\netcoreapp3.1\Money-Maker.csproj.CoreCompileInputs.cache
+D:\nauka\KURSY\codeAcademy\C#\Money-Maker\Money-Maker\Money-Maker\obj\Debug\netcoreapp3.1\Money-Maker.dll
+D:\nauka\KURSY\codeAcademy\C#\Money-Maker\Money-Maker\Money-Maker\obj\Debug\netcoreapp3.1\Money-Maker.pdb
+D:\nauka\KURSY\codeAcademy\C#\Money-Maker\Money-Maker\Money-Maker\obj\Debug\netcoreapp3.1\Money-Maker.genruntimeconfig.cache
